@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="vgroup" title="Help">
+		<View class="buffer">
+			<ScrollView class="vgroup">
+				<Label class="h4">This video will help you learn how to use the app.\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\ntest\n
+				</Label>
+				<ImageView onClick="openVideo" width="300" height="169" backgroundColor="red" image="/images/video.png">		
+				</ImageView>
+        	</ScrollView>
+        </View>
+    </Window>
+</Alloy>
